@@ -1,2 +1,2 @@
 # Networked Time Series Classification
-The main file is NetRLS.m
+The main entry file is NetRLS.m
